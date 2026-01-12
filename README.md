@@ -86,7 +86,8 @@ Die App muss beide Dateitypen akzeptieren.
 
 ## Zielschema (Datenmodell)
 Definiere ein klares Schema, nach dem du Daten validierst und speicherst.  
-Du darfst das Schema selbst festlegen, aber es muss den Daten entsprechen
+Du darfst das Schema selbst festlegen, aber es muss den Daten entsprechen. 
+Als Beispiel und Referenz dienen die beigefügten example Dateien 
 
 
 ### Mindestanforderung an das Schema
