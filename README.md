@@ -181,6 +181,8 @@ Bitte dokumentieren:
 - Link an uns senden
 - Repo muss ohne manuelle „Spezialschritte“ lokal startbar sein (README)
 
+Es geht nicht um Perfektion. Es geht darum, eure code skills einordnen zu können, eure Arbeitsweise und Herangehensweise herauszufinden.
+
 Viel Erfolg!
 
 
