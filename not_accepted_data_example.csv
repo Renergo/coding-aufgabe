@@ -1,3 +1,5 @@
+# 🎯 Beispiel für ungültige Geodaten - Diese Datei zeigt, was man NICHT tun sollte!
+# ⚠️ Die Daten hier stimmen nicht überein und dienen nur zu Demonstrationszwecken.
 ID,Flurstücknummer,longitude,latidude,Gemeinde,Bundesland,Größe in ha
 9001,VIN-WVWZZZ1KZ6W000001,10.4515,51.1657,Golf 7,Hatchback,1.40
 9002,VIN-WBA8D9G58JNU12345,11.5820,48.1351,3er BMW,Limo,1.85
